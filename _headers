@@ -1,1 +1,2 @@
-content-disposition: attachment; filename="logo.svg"
+/logo.svg
+  content-disposition: attachment; filename="logo.svg"
