@@ -9,8 +9,8 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com/docs',
-  baseUrl: '/docs/',
-  onBrokenLinks: 'throw',
+  baseUrl: '/this-is-base-url/',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
